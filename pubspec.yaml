@@ -1,6 +1,8 @@
 name: png_optimizer
-description: A sample command-line application.
-version: 1.0.0
+description: A transformer to optimize png images.
+version: 0.0.1-pre.0
+repository: https://github.com/hadysata/png_optimizer/
+homepage: https://github.com/hadysata/png_optimizer/
 
 environment:
   sdk: ^3.4.0-0
